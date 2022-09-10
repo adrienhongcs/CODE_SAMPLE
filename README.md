@@ -10,7 +10,7 @@ Unfortunately for this project, the engineers were responsible for the time-cons
 
 The engineers proceeded to start annotating the tweets which were located in a csv file. This step proved to be slow, and prone to mistakes since the UI used were csv files.
 
-To make this step faster, more reliable, and more comfortable, I created a python script that enables the engineers to quickly annotate using the command line.  
+To make this step faster, more reliable, and more comfortable, I created a python script that enables the engineers to quickly annotate using the command line. The script also made it easier to partition the data set and divide the work between the team.
 
 # Example
 
